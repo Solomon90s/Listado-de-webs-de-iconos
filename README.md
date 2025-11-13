@@ -23,3 +23,4 @@ Webs de iconos
 21. [simpleIcons](https://simpleicons.org/)
 22. [unicons](https://iconscout.com/unicons/getting-started/line)
 23. [skillIcons](https://skillicons.dev/)
+24. [svgrepo](https://www.svgrepo.com/)
